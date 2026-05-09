@@ -1,0 +1,20 @@
+body{
+    background-color:black;
+    color:white;
+    text-align:center;
+    font-family:Arial;
+    padding-top:100px;
+}
+
+button{
+    background:pink;
+    border:none;
+    padding:15px 25px;
+    font-size:18px;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:hotpink;
+}
